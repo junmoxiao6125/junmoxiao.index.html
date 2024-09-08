@@ -10,29 +10,17 @@
     <meta http-equiv="X-XSS-Protection" content="1; mode=block" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>余争涵的网站</title>
-	<style>
-    body {
-      margin: 0;
-    } 
-    a {
-       text-decoration: none;
-    }
-    p1 {
-      text-align: left-center;
-      font-size: auto;
-    }
-    p {
-      text-align: left-center;
-      font-size: auto;
-    }
-	</style>
+    <style>
+      a {
+        text-decoration: none;
+      }
+      body {
+        margin: 0;
+      }
+    </style>
   </head>
   <body>
-    <div
-      style="background-color: #ffffff;
-	   text-align: center;
-	   padding: 40px"
-    >
+    <div style="background-color: #f1f1f1; text-align: center; padding: 40px">
       <img
         src="IMG_20221102_203434.jpg"
         alt="君莫笑"
@@ -43,13 +31,13 @@
     <div
       style="
         max-width: 760px;
-        margin:  auto;
-        padding: 50px;
+        margin: 30px ;
+        padding: 30px;
         line-height: 1.7;
         color: #66ccff;
       "
     >
-      <p1><b>个人介绍</b></p1>
+      <p>个人介绍</p>
       <p>性别：男</p>
       <p>工作：学生</p>
       <p>爱好：看小说，刷B站，追番等</p>
@@ -57,17 +45,17 @@
     <footer
       style="
         margin-top: 60px;
-        background-color: #ffffff;
+        background-color: #f1f1f1;
         text-align: center;
         padding: 40px;
-        font-size: 14px;
+        font-size: 12px;
       "
     >
       <p>我的网站</p>
       <a
         href="file:///C:/Users/DELL/OneDrive/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5.html"
-        >友情链接</a
-      >
+        >友情链接</a>
     </footer>
   </body>
 </html>
+      
